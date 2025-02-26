@@ -20,12 +20,10 @@ Task_Chatbot/
 │   ├── gemini_ai.py       # Gemini AI API integration
 │── tests/
 │   ├── test_chatbot.py    # Unit tests for chatbot response verification
-│   ├── test_memory.py     # Tests for memory storage and retrieval
 │── .env                   # Stores API keys (DO NOT SHARE)
 │── config.py              # Loads environment variables
 │── requirements.txt       # Dependencies list
 │── README.md              # This file
-│── main.py                # (Optional) Entry point for running the chatbot
 └── .gitignore             # Prevents sensitive files (e.g., venv) from being uploaded
 ```
 
